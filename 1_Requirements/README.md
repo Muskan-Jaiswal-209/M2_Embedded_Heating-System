@@ -11,13 +11,23 @@ Seat warmers were first introduced by Cadillac in 1966 to help with backaches. S
 
 Heated seats can make cars much more comfortable in the winter, or for those who often get cold even in the summer. The heater in most vehicles work well, but the car’s seat warmer is close to your body allowing you to warm up faster. In some cases, the seat warms up before the rest of the vehicle does.
 
- # **Functionality:**
+## Details requirements
+### High Level Requirements:
+| ID | Description | Status |
+|------| ------| ------|
+| HLR1 | When the two switches are closed, the first LED glows indicating the actuation of the system and the heater. | Implemented
+|HLR2  | Next the analog input from the temperature sensor is received and digitized.| Implemented
+|HLR3  | The hard disk must be 4 GB . |	Implemented
+|HLR4  | The web browser must be Microsoft Internet Explorer with a resolution of at least 800 \* 600. |	Implemented
 
-- When the two switches are closed, the first LED glows indicating the actuation of the system and the heater.
-- Next the analog input from the temperature sensor is received and digitized.
-- The digitized temperature input is visualized using Pulse Width Modulation.
-- The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.
+#### Low Level Requirements:
 
+| ID | Description | Status |
+|-------|------|------|
+| LLR1 | The digitized temperature input is visualized using Pulse Width Modulation.| Implemented 
+| LLR2 | The system runs effectively on Windows 2000 server but it will also run equally well on compatible operating systems.  | Implemented
+| LLR3 | The corresponding temperature values based on the digitized temperature input is transmitted by the UART protocol. Here the data is displayed on the serial monitor.| Implemented 
+ 
 # **SWOT Analysis:**
 
 **Strength:**
