@@ -1,9 +1,9 @@
 /**
  * @file SeatHeatingApp.c
- * @author KaaviyaP
+ * @author Muskan Jaiswal
  * @brief Heat Seating Application to set Temperature of seat
  * @version 0.1
- * @date 2021-04-27 
+ * @date 2021-12-01
  * 
  * @copyright Copyright (c) 2021
  * 
