@@ -2,11 +2,11 @@
 #define __ACTIVITY_4_H__
 /**
  * @file activity4.h
- * @author KaaviyaP (kaaviya2881999@gmail.com)
+ * @author Muskan Jaiswal (muskan.jaiswal8530@gmail.com)
  * @brief Header file for activity4
  * @version 0.1
- * @date 2021-04-27
- * 
+ * @date 2021-12-01
+ *
  * @copyright Copyright (c) 2021
  * 
  */
