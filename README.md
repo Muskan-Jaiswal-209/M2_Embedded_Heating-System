@@ -1,4 +1,4 @@
-# M2_Embedded_Goal
+# M2_Embedded_Heating-System
 Embedded C mini Project
 
 ## Folder Structure
