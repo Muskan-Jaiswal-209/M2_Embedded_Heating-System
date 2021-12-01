@@ -18,6 +18,10 @@ Folder               | Description
 |F_01|  sensing if the person is seated  |
 |F_02| Blinking the LED  |
 
+### Image
+
+![activity_4 4](https://user-images.githubusercontent.com/94169797/144205368-60e9bf0a-fb85-4913-92df-f6a46ada786a.jpg)
+
 ### Video
 
 
