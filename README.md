@@ -1,6 +1,8 @@
 # M2_Embedded_Heating-System
 Embedded C mini Project
 
+[![cppcheck-action-test](https://github.com/Muskan-Jaiswal-209/M2_Embedded_Heating-System/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Muskan-Jaiswal-209/M2_Embedded_Heating-System/actions/workflows/cpp%20check.yml)
+
 ## Folder Structure
 Folder               | Description
 -------------------  | -----------------------------------------
