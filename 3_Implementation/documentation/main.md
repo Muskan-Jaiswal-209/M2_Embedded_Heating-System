@@ -1,1 +1,0 @@
-@mainpage Seat Heating Application by KaaviyaP @subpage SeatHeatingApp.c
