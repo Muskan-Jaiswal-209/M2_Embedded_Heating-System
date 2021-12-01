@@ -2,10 +2,10 @@
 #define __ACTIVITY_3_H__
 /**
  * @file activity3.h
- * @author KaaviyaP (kaaviya2881999@gmail.com)
+ * @author Muskan Jaiswal (muskan.jaiswal8530@gmail.com)
  * @brief Header file for activity3
  * @version 0.1
- * @date 2021-04-27
+ * @date 2021-12-01
  * 
  * @copyright Copyright (c) 2021
  * 
