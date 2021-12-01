@@ -1,0 +1,14 @@
+3_Implementation/simulation/activity3.c:25:12: style: Unsigned expression 'temp' can't be negative so it is unnecessary to test it. [unsignedPositive]
+    if(temp>=0 && temp<=200){
+           ^
+3_Implementation/simulation/activity4.c:34:16: style: Unsigned expression 'temp' can't be negative so it is unnecessary to test it. [unsignedPositive]
+        if(temp>=0 && temp<=200){
+               ^
+3_Implementation/simulation/activity4.c:14:0: style: The function 'USARTInit' is never used. [unusedFunction]
+
+^
+3_Implementation/simulation/activity4.c:22:0: style: The function 'USARTRead' is never used. [unusedFunction]
+
+^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
