@@ -18,6 +18,14 @@ Folder               | Description
 |F_01|  sensing if the person is seated  |
 |F_02| Blinking the LED  |
 
+### Video
+
+
+https://user-images.githubusercontent.com/94169797/144211732-317c7626-5eea-4a9e-a6df-416d1b8ad906.mp4
+
+
+
+
 ## Challenges Faced and How Was It Overcome
 
 1.GCC erorr in windows and linux: installed the gcc msys64 mingw64 properly.
