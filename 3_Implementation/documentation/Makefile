@@ -1,6 +1,6 @@
-DOXY_FILE = Doxyfile
-doc:
-	doxygen ./$(DOXY_FILE)
+DOXYFILE_NAME = Heatcontrolsystem
+all:
+	doxygen ./$(DOXYFILE_NAME)
 
 clean:
-	rm -rf html*
+	rm -rf html
